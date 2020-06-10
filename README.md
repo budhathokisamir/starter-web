@@ -5,6 +5,7 @@ This is a simple website project
 Another random text as an example
 
 ## Purpose
+to provide example
 
 ## How To Contribute
 
