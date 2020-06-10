@@ -8,5 +8,8 @@ Another random text as an example
 to provide example
 
 ## How To Contribute
+kkklcacimcomcolmdlfmdlmfldffl
+A simple llcmdlmlcdmcd
 
 ## Deployment
+Adding new texts
