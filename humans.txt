@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Samir Budhathoki budhathokisamir@gmail.com
 
 # THANKS
 
