@@ -13,6 +13,6 @@ A simple llcmdlmlcdmcd
 
 ## Deployment
 Adding new texts
-
+Please fork this depositry and dp llll
 ## Copyright
 2020 Git.Training
