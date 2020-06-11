@@ -13,3 +13,6 @@ A simple llcmdlmlcdmcd
 
 ## Deployment
 Adding new texts
+
+## Copyright
+2020 Git.Training
