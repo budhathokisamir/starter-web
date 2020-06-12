@@ -15,5 +15,5 @@ A simple llcmdlmlcdmcd
 Adding new texts
 Please fork this depositry and dp llll
 ## Copyright
-2020 Git.Training
+2020 Git.Training. All rights reserved
 Adding a line for rebasing example, more changes from myfeature branch too
