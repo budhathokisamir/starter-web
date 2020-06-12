@@ -1,5 +1,6 @@
 # Starter web project
 This is a simple website project
+Emergency fix after stash
 
 ## Introduction
 Another random text as an example
