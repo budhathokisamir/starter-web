@@ -16,4 +16,4 @@ Adding new texts
 Please fork this depositry and dp llll
 ## Copyright
 2020 Git.Training
-Adding a line for rebasing example
+Adding a line for rebasing example, more changes from myfeature branch too
